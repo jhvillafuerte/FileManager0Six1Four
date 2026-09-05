@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.FileManager0Six1Four" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <!-- Example: <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.FileManager0Six1Four" parent="Base.Theme.FileManager0Six1Four" />
+</resources>
