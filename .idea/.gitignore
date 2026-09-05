@@ -1,3 +1,50 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.log
+
+# Gradle wrapper (ignore jar, keep scripts)
+gradle-wrapper.jar
+
+# IDE (Android Studio / IntelliJ)
+*.iml
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/codeStyles/Project.xml
+.idea/.name
+.idea/gradle.xml
+.idea/misc.xml
+.idea/vcs.xml
+
+# Local configs
+/local.properties
+.DS_Store
+Thumbs.db
+
+# Outputs
+*.apk
+*.ap_
+*.aab
+outputs/
+
+# Keystore (local only, don’t commit secrets)
+*.jks
+*.keystore
+
+# Lint / reports
+lint-results.xml
+lint-results.html
+lint-results.txt
+
+# OS / editor junk
+*.swp
+*.tmp
+*.bak
